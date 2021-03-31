@@ -1,0 +1,14 @@
+outs:
+- md5: 31d30eea8d0968d6458e0ad0027c9f80
+  size: 3
+  path: file_10.txt
+meta:
+  hkube:
+    id: ser-171a
+    name: file_10.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1617196453997
+    hash: 31d30eea8d0968d6458e0ad0027c9f80

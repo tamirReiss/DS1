@@ -1,0 +1,14 @@
+outs:
+- md5: 7c5aba41f53293b712fd86d08ed5b36e
+  size: 2
+  path: file_9.txt
+meta:
+  hkube:
+    id: ser-3693
+    name: file_9.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1617196454008
+    hash: 7c5aba41f53293b712fd86d08ed5b36e

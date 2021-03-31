@@ -1,0 +1,13 @@
+outs:
+- md5: a75f5a8337c6699916182b6f7c10d7a9
+  size: 3
+  path: file_49.txt
+meta:
+  hkube:
+    id: ser-01wa
+    name: file_49.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1617196454001
+    hash: a75f5a8337c6699916182b6f7c10d7a9

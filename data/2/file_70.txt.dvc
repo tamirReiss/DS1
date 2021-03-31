@@ -1,0 +1,13 @@
+outs:
+- md5: 30b00ce4c04ddd66589c7e0556a4bd4f
+  size: 3
+  path: file_70.txt
+meta:
+  hkube:
+    id: ser-tjox
+    name: file_70.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1617196454003
+    hash: 30b00ce4c04ddd66589c7e0556a4bd4f

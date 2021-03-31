@@ -1,0 +1,13 @@
+outs:
+- md5: f0287f33eba7192e2a9c6a14f829aa1a
+  size: 3
+  path: file_43.txt
+meta:
+  hkube:
+    id: ser-0npi
+    name: file_43.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1617196454000
+    hash: f0287f33eba7192e2a9c6a14f829aa1a

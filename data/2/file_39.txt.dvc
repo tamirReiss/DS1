@@ -1,0 +1,14 @@
+outs:
+- md5: 59885ebc737617addaaf0cb8090203fc
+  size: 3
+  path: file_39.txt
+meta:
+  hkube:
+    id: ser-n3sn
+    name: file_39.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1617196454000
+    hash: 59885ebc737617addaaf0cb8090203fc
